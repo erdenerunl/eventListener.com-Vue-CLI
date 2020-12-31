@@ -1,0 +1,25 @@
+{
+  "upcomings": [
+    {
+      "id": 1,
+      "title": "Event-1",
+      "imageUrl": "https://picsum.photos/id/1011/200/300",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, laborum eum! Autem laboriosam at, sit molestiae labore, officiis veritatis atque dicta inventore fugiat ratione asperiores accusamus rerum quasi pariatur totam.",
+      "eventDate": "5/1/2020"
+    },
+    {
+      "title": "deneme 2",
+      "description": "çok iyi bir event bu",
+      "imageUrl": "#",
+      "eventDate": "uzak tarih",
+      "id": 2
+    },
+    {
+      "title": "deneme-3",
+      "description": "bilmeeeem bişeyler iştee sinema flan",
+      "imageUrl": "#",
+      "eventDate": "yakın",
+      "id": 3
+    }
+  ]
+}
