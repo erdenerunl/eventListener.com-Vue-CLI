@@ -1,24 +1,24 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <router-link class="navbar-brand" to="/"  >eventListener</router-link>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+  <router-link class="navbar-brand" to="/" ><img style="max-width:100%" src="../assets/logo.png" alt="logo"></router-link>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-    <div class="collapse navbar-collapse" id="navbarColor01">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <router-link class="nav-link" to="/"
-            >Home
-            <span class="sr-only">(current)</span>
-          </router-link>
-        </li>
-        <li class="nav-item">
-          <router-link class="nav-link" to="/about">About</router-link>
-        </li>
-      </ul>
-    </div>
-  </nav>
+  <div class="collapse navbar-collapse" id="navbarColor01">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <router-link class="nav-link" to="/" >Home
+          <span class="sr-only">(current)</span>
+        </router-link>
+      </li>
+      <li class="nav-item">
+        <router-link class="nav-link" to="/about" >About</router-link>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
 </template>
 
 <script>
