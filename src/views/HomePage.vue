@@ -7,7 +7,7 @@
             <h1 class="title">eventListener | Find your events...</h1>
             <h3 class="subtitle">Lorem ipsum dolor sit amet.</h3>
             <div class="button-block">
-              <button @click="goAbout" class="btn btn-secondary">Sign Up to Browse Events</button>
+              <button class="btn btn-secondary">Sign Up to Browse Events</button>
             </div>
           </div>
         </div>

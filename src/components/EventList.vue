@@ -4,10 +4,10 @@
       <h3 class="card-header">{{ event.title }}</h3>
       <img :src="event.imageUrl" class="d-block" max-width="100%" height="300" />
       <div class="card-body desc">
-        <p class="card-text">{{ event.description }}</p>
+        <p class="card-text" style=" min-height: 63px;">{{ event.description }}</p>
       </div>
       <div class="card-body">
-        <a href="#" class="card-link">click for more...</a>
+        <a href="#" @click="$router.push(`/details/${event.id}`)" class="card-link">click for more...</a>
       </div>
       <div class="card-footer text-muted">{{ event.eventDate }}</div>
     </div>

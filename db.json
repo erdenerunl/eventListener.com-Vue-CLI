@@ -10,14 +10,14 @@
     {
       "title": "deneme 2",
       "description": "çok iyi bir event bu",
-      "imageUrl": "#",
+      "imageUrl": "https://picsum.photos/id/1015/200/300",
       "eventDate": "uzak tarih",
       "id": 2
     },
     {
       "title": "deneme-3",
       "description": "bilmeeeem bişeyler iştee sinema flan",
-      "imageUrl": "#",
+      "imageUrl": "https://picsum.photos/id/15/200/300",
       "eventDate": "yakın",
       "id": 3
     }
