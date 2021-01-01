@@ -8,17 +8,17 @@
       "eventDate": "5/1/2020"
     },
     {
-      "title": "deneme 2",
-      "description": "çok iyi bir event bu",
+      "title": "Event-2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, laborum eum! Autem laboriosam at, sit molestiae labore, officiis veritatis atque dicta inventore fugiat ratione asperiores accusamus rerum quasi pariatur totam.",
       "imageUrl": "https://picsum.photos/id/1015/200/300",
-      "eventDate": "uzak tarih",
+      "eventDate": "so close",
       "id": 2
     },
     {
-      "title": "deneme-3",
-      "description": "bilmeeeem bişeyler iştee sinema flan",
+      "title": "Event-3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, laborum eum! Autem laboriosam at, sit molestiae labore, officiis veritatis atque dicta inventore fugiat ratione asperiores accusamus rerum quasi pariatur totam.",
       "imageUrl": "https://picsum.photos/id/15/200/300",
-      "eventDate": "yakın",
+      "eventDate": "10/3/2021",
       "id": 3
     }
   ]
