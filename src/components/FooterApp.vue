@@ -7,7 +7,7 @@
         <router-link active-class="active" to="/addevent"> Add Event </router-link>
         <router-link active-class="active" to="/about"> About </router-link>
       </div>
-      <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+      <p class="mb-1">This website sample was created by Erdener Ünal. Copyright © 2021 Erdener Ünal.</p>
     </div>
   </footer>
 </template>
