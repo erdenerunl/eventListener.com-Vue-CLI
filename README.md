@@ -1,4 +1,6 @@
-# event-listener-dot-com
+# eventListener.com
+This website design includes tracking activity, adding activity and seeing details. All events are stored in a json file and json-server is used for database side. Http requests are provided by axios. Bootstrap and Bootswatch frameworks are used to create design. This project is based on Vue CLI and vue-router.
+
 
 ## Project setup
 ```
